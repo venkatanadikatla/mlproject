@@ -1,8 +1,0 @@
-pandas
-seaborn
-numpy
-scikit-learn
-catboost
-xgboost
-
-# -e .
